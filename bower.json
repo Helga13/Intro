@@ -1,16 +1,16 @@
 {
-  "name": "sweelemk",
+  "name": "Helga13",
   "version": "1.0.1",
   "description": "gulp template",
   "authors": [
-    "Eugene Godun"
+    ""
   ],
   "moduleType": [
     "globals"
   ],
   "license": "MIT",
   "dependencies": {
-    "jquery": "2.*",
+    "jquery": "3.*",
     "normalize.css": "*"
   }
 }
